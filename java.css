@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(218, 228, 87);
+}
+button{
+    width: 98px;
+    height: 98px;
+    border-style: inset;
+    border-color: rgb(45, 85, 160);
+    border-width: 10px;
+}
